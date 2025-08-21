@@ -4,7 +4,7 @@
 <u>⚡ A simple WhatsApp User Bot Coded By ANAS+ISHAQ ⚡</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/jd0s4p.jpg"/>       
+<img src="[https://files.catbox.moe/jd0s4p.jpg](https://i.ibb.co/9mCykX0G/Whats-App-Image-2025-08-21-at-5-15-37-PM.jpg)"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•ANAS+ISHAQ-+V4•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ANAS+ISHAQ;RELEASED+DATE+05%2F08%2F2025." alt="Typing SVG" /></a>
 </p> 
